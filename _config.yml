@@ -8,15 +8,15 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Yang Zhong # add your name
 author-img: yang-cartoon-sm.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
+about-author: I am a software developer/giser. Always hungry to keep learning. # add description
+twitter: yzhong1985 # add your Twitter handle
+facebook: yang.zhong.3572 # add your Facebook handle
 github: yzhong1985 # add your Github handle
 linkedin: # add your Linkedin handle
 email: yzhong1985@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: yzhong1985 # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
