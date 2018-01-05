@@ -3,7 +3,7 @@ layout: post
 title: 一次回国旅行的准备经历
 date: 2018-01-04 12:05:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: asiana.jpg # Add image post (optional)
 tags: [miles, ana, china]
 ---
 
