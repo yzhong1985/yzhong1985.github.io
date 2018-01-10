@@ -25,12 +25,17 @@ tags: [pc build, ryzen]
 陆续收到零件后，大概花了两个晚上逐步组装在一起，不得不说机箱现在对Cable Management的支持是越来越好了，各种zip tie和孔洞给你组织，比以前我高中攒机时候简单多了。最终所有配件可以参考我的[pcpartpicker](https://pcpartpicker.com/list/VyMPtJ "Snow White Build")，除去SSD和HDD我用了之前的，总共花费大概在$960，想想这样的配置Ryzen 1700x + GTX 1060 3GB + 16GB DDR4 RAM 不到$1,000，性价比极高！
 最终效果如下：
 ![Final-Build-1]({{site.baseurl}}/assets/img/pc-build1.jpg)
+
 ![Final-Build-2]({{site.baseurl}}/assets/img/pc-build2.jpg)
+
 ![Final-Build-3]({{site.baseurl}}/assets/img/pc-build3.jpg)
 
 总结一下
+* Ryzen 确实让AMD挽回了很多市场，不是发烧友的话B350实际上是性价比最高的主板，因为也可以OC，只是不可以crossfire，具体可以见下图
+* GPU的价格由于比特比等Mining的需求也一直较高，同等价位上，N厂的显卡还是更有优势一点（我另一台电脑用的290X，差不多的benchmark价格也不便宜）
 * 年底BF和圣诞确实是装机的好时候，各种打折使得这样的高配置只需要不到$1,000刀
 * Microcenter有Deal的时候是买CPU+Motherboard的首选，他们家Intel的几块当红CPU这段时间也很便宜，比如7700K好像也只要$280左右，再加块主板又减$30 :-)，不过前提是你家离得近
 * 内存价格短期内估计不会下跌，有装机需求的朋友还是盯着Deal，有划算的就上吧
 * RGB + Tempered glass 逼格真的很高啊，推荐！
 
+![Ryzen-Motherboard]({{site.baseurl}}/assets/img/pc-build4.jpg)
