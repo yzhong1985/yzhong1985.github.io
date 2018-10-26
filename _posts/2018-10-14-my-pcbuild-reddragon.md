@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 装机乐趣 PART1 组了台强大的娱乐PC
+title: 组了台强大的娱乐PC
 date: 2018-10-14 15:38:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: pcbuild-redd-cover.jpg
@@ -13,5 +13,13 @@ tags: [life, gaming, amd, nvidia, buildpc]
 
 升级组装电脑，向来对于我来讲都是很有乐趣的事情:-) 拿到两张卡之后把我手头的两台机器做了升级，这篇我主要讲我的娱乐PC的这一台(装上了1080Ti)，我将另开一篇文章介绍我的另一台日常用机的升级(1070Ti)
 
+[pcpartpicker]: https://pcpartpicker.com/b/tqQZxr	"电脑的配置简介"
 
+由于之前我在另一个住所配了一台能简单娱乐的电脑（使用的是AMD Ryzen 2400G 因此没有装独立显卡），这次的这台机器实际基本上是把那台拿过来做了一个升级，具体来说主要是
 
+1. 把Ryzen 5 2400G换成了最新的Ryzen 7 2700X
+2. 把1080Ti安了上去
+3. 加了2x8=16GB的Ram，所以现在变成总共4x8=32GB的Ram
+4. 加了MSI Core Forzr L的散热器
+
+整个下来大概是整个改头换面了，机箱用的还是原来的NZXT H500， 这个机箱不大，但是在同级别的机箱里算是还较为符合我的审美
