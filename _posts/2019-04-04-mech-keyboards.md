@@ -6,10 +6,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: mech-keyboards.jpg
 tags: [life, keyboard, pc]
 ---
-
-### Razer Blackwidow Tournament Edition 2014
-
 ![blkwidow]({{site.baseurl}}/assets/img/keyb-razor-blkwidow.JPG)
+### Razer Blackwidow Tournament Edition 2014
 
 我的第一把机械键盘应该是刚来美国的时候买的一把老版的Razer blackwidow，当时只是觉得Razor这个品牌很酷，也没做太多研究。第一次用的时候确实手感比我原来所有用过的键盘都高出一个档次，后来知道它用的是Razor自已的switch，按起来很轻，每次觉得手指刚放上去就触发了，总体上比较接近Cherry blue，这把键盘我用了至少3年。
 
@@ -21,10 +19,8 @@ tags: [life, keyboard, pc]
 其实假如有比较其他几把的话可能也就6分，多加1分给情怀，毕竟是自己的第一把而且也用了很久...
 
 ---
-
-### Logitech G910 Spectrum
-
 ![g910]({{site.baseurl}}/assets/img/keyb-g910.JPG)
+### Logitech G910 Spectrum
 
 这把实际上是我目前的主力之一，这也应该是我买的最贵的一把，记得大概$100左右。罗技的机械键盘在爱好者当中并不是特别的被推荐，主要的原因就是很多人不喜欢它的Romer-G switch，但是真正用了之后我觉得特别的适合我，就是有点像Cherry brown但又相比起来稍微轻那么一点点，让我提高了打字的连贯性又最大程度上减小了错误，总的来说特别适合我，所以手感这回事只能是见仁见智。
 
@@ -35,10 +31,8 @@ G910之所以能成为我的主力其实有一个很重要的原因，它的Marc
 打分8/10
 
 ---
-
-### Logitech G613 Lightspeed Wireless
-
 ![g613]({{site.baseurl}}/assets/img/keyb-g613.JPG)
+### Logitech G613 Lightspeed Wireless
 
 在装了第二台电脑之后，一直想弄一套无线的键鼠，当时市面上的无线机械键盘选择并不多，调查一番后入手了这个G613，上学后用它写了很多作业，感觉还是比较满意的，实际上G613也确实比较适合办公或者编程什么的，一方面没有让人走神的RGB，就是普通的白光，另外手感和G910一样都是我很习惯的Romer-G，电池也出人意料的耐，而且居然也有6个Macro键，正好可以满足我的某些应用场景。我觉得让我唯一鸡蛋里挑骨头就是右上的音量控制键设计有点丑，整体设计也有点稍显厚重。
 
@@ -47,9 +41,8 @@ G910之所以能成为我的主力其实有一个很重要的原因，它的Marc
 ---
 下面要说的这几把都是原厂轴的，我对红轴稍微偏爱一点，一共买了三把红加一把茶轴，总的来说各有千秋
 
-### HyperX Alloy Elite Brown
-
 ![hyperx]({{site.baseurl}}/assets/img/keyb-hyperx-elite.JPG)
+### HyperX Alloy Elite Brown
 
 有段时间非常迷HyperX的外设，相继剁手收了键盘，鼠标，以及一个无线耳机。虽然金士顿刚进入这个外设领域，但是设计水平还真是不错，反正可以说是我的菜，这把Elite其实想收一把RGB的，但是死活不打折，现在好像也基本是全价，eBay上二手的都卖到$90左右...这个价格实在无语！这个是红色灯版的，其实只是差了一个RGB，但到打折的时候只卖$59.9，于是收了一把茶轴的，手感没的说，茶轴是我认为最接近Romer-G的，也比较适合我，目前这把用来当做游戏键盘，总的来说是很超值了！不足的地方就是自带的那个塑料手垫实在太廉价，说实话还不如不配...而且ABS的键帽也特别容易粘油
 
@@ -64,10 +57,8 @@ G910之所以能成为我的主力其实有一个很重要的原因，它的Marc
 打分 8/10
 
 ---
-
-### Logitech G610 Orion Red
-
 ![g610]({{site.baseurl}}/assets/img/keyb-g610.JPG)
+### Logitech G610 Orion Red
 
 目前我编程的主力键盘，我现在打下这篇博客所用的键盘就是这一把，其实这是一把罗技很少出的原厂轴键盘，Cherry Red的感觉是没的说的，虽然我个人觉得Romer-G敲着手感更佳一点点...不过原厂轴意味着可以换键帽，又是标准键位，可以换触感提升的PBT，这一点算是弥补了手感上的那一点点吧。
 
