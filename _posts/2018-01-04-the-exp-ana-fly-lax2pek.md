@@ -1,34 +1,45 @@
 ---
 layout: post
-title: 一次回国旅行的准备经历
+title: the process of planning a China trip  
 date: 2018-01-04 12:05:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: asiana.jpg # Add image post (optional)
 tags: [miles, ana, china]
 ---
 
-### 换票经历
-宝宝一转眼已经九个月了，一直想计划18年春节带她回国一趟，17年一堆信用卡里程终于能派上点用场了。研究了一下各航空公司的里程票规则，ANA的9w5
-换往返商务还是首选，毕竟两个人就只要19w，而且可以免费一个停留，虽然19w也不少，但是还是比起其他航空动不动单程两舱都10w+要来的现实了很多，看来以后攒MR还是有用处的(
-最近又有了张EPD的Amex卡，继续花钱...)。
+### Reward points from credit card
+My baby girl has turned to her 9 months, we figured that it is the time to bring her back to China to visit the 'new' grand parents. As the Chinese new year is around the corner, we need to start making a plan for the trip. In 2017, I did collect a number of points via different credit cards (mostly via new customer spending reward from Amex and Chase). now it's the time for them to be used. 
 
-确定了ANA之后，白给的一个停留放在哪里也是很有学问的，从日本走的话一般肯定是ANA本家的航班，虽然听说服务体验很好，可是基本全都是waitinglist，这不确定性太大了。经台湾停也是一种选择，不过我们考虑到这是第一次用，还需要办理赴台通行证，也还是太麻烦了，这个留到下次。最终确定了韩国，几个原因：
-* 韩亚的航班还是容易出票（其实还有一个好处后面会提到）
-* 韩国如果过境旅游出超过30天不用签证
-* 满足LD购物的需要
-最终确定的路线是: LAX - ICN - PEK 两段韩亚  PEK - LAX 直飞国航 都是商务       
+After a study among the reward points exchange policies from Amex & Chase; also the points to reward tickets at different airlines, I found the ANA will be probably my best way to go. The round trip busniess class can be redeemed at 95,000 pts (USA to Asia), this is a really good deal if we compare with some other airlines (one way business can cost you about 100K pts between the same region). the ANA points can be exchanged by Amex MR points at a 1：1 ratio. in fact, this has been considered as maybe the best way to use the MR pts. (I recently applied another Amex EPD :-) keep spending..)
 
-于是乎马上着手实施，从MR转了15w，然后又从SPG转了5w（转4w送1w），这里碰到了我的第一个问题，SPG转点不是一般的慢。MR同一天的转点，12月7号提交，第二天就到帐了，而SPG的5w分最终等到26号才到，足足二十天，真的万一我想转的机票没有了那不就白忙一场？好在我计划的还早，26日到账当天就马上把票换了，才松了一口气（其实后面发现这事儿还没完），换票的花费如下：
-* 15w MR 来源：100k 的白金卡开卡 + 50k 的PRG开卡
-* 4w SPG 来源：35k 的SPG开卡 + 消费攒点
-* 以及近 $400 的税费 （这也不便宜啊，快接近一个经济舱往返了）
+### The stopover choices
+Once we decided ANA, one of the benifits it has is the one free stopover it allows. This means, we can fly to a city in between and travel for a few days before the final destination (Beijing in our case). We think about stopping at Japan or Taiwan for 3-4 days, but final give up due to different reasons. (For Japan, the US to Japan busniess class tickets availability is low, and we need to be placed on waitlist.., for Taiwan, as my wife is a Chinese citizen, she needs to get a certain permit to enter. Even it's not too hard to apply, but we just simply don't want any hassle)
 
-由于带宝宝之前飞过纽约，我对她坐长途飞机并没有那么担心，但是我做研究的时候竟然忽略了给宝宝出票的费用，之前美国国内飞行都是免费的，毕竟又不占一个座位。当我意识过来后马上去查，不查不知道，一查吓人，宝宝的票有两种标准，有的航空公司是按大人里程的10%收取，这样显然划算多了，可有的是按大人舱位票价的10%金额收取，我查了网上一些有过类似的经历居然有人被收了将近$2,000刀（这是买头等舱了吧？），我看了一下韩亚和国航，韩亚还是很慷慨，收大人里程6w5的10%，也就是6.5k里程，不是太糟，可以从SPG转就好了（不过转分又要20天左右这回还真不一定来得及..），国航初步一问大概需要$700，这...还不如直接买一张经济舱呢啊，不过从来没体会过国航的两舱，算了，就奢侈一把吧。
+Finally, we choosed another country - South Korea
 
-### 总结
-回看整个订票换票的过程，得到了以下的经验
-1. 由于有ANA的9w5商务往返存在，MR还是很值得攒的，尤其是还可以免费加停留，使得以后旅行的选择多了很多，我自己测试了夏威夷，塞班，关岛，港澳台，以及日韩的组合，都可以出票
-2. 如果要转分，尤其是SPG（和万豪合并以后SPG的积分和伙伴会不会变化还真不一定啊），一定要早转，至少提前两个月，而且计划好行程后，每家航空公司需要多少点都要算好，提早转，我的ANA可足足等了20多天才到账
-3. 国际航班的婴儿票能用里程当然最好，几个能用里程的航空包括大韩，韩亚，加航，英国航空，阿联酋航空等几家都可以10%里程，其余都是10%同仓位票价:-( 这里提一句国泰航空，居然收25%的票价（美国出发或者到达的航班），这要是换个两舱搞不好比直接三张经济舱都贵啊...，
-4. 另外婴儿票可以单独找执飞的航空出票，比如我用ANA换完韩亚和国航的票以后，宝宝票可以直接联系这两家出，这样韩亚就可以用点数了（国航还是没办法），不然ANA自己出的话他们的policy也是10%的票价，大概要收$1,200左右..
-5. SPG点数灵活性是有的，明年看来我还是会买满，不过转点时间实在不敢恭维
+There are a few reasons make South Korea a very desirable choice:
+* ANA points can be used to redeem the flight from Asiana airlines, which usually has very good availability on business
+* My wife can enter without visa for 30 days (if you are just doing a stopover)
+* We never been there before, always want to try its food and do some shopping
+So, the final route has been decided! LAX - ICN - PEK (all flying Asiana) and then PEK - LAX (direct flight by Air China) all business
+
+## The actual points transfer time      
+The total ANA pts needed is 190,000 (95,000 * 2); I almost started the points exchange process right away since I know it could take time. 150,000 was transfered from my Amex MR pts, and the rest 40,000, I exchanged from my SPG points (can also excahnge for ANA points at 1:1). The MR pts was transfered very quick, it gets executed the next day; but the SPG takes a FULL 20 DAYs to be appeared in my ANA account, so advice here: if you want to use SPG for ANA, get started as early as possible. Luckily, I planned it early enough, so I was still able to reedem my ticket in time. (I quickly booked all the tickets the same day I received the SPG pts) the total points spent breakdown as below:
+* 150,000 Amex MR points: 100,000 from my Amex Platinum; 50,000 from the Amex PRG card; both were rewarded via opening new card spending bonus
+* 40,000 SPG points: 35,000 from the SPG opening new card spending bonus, 5k from my regular spending bonus
+* $400+ tax and fuel surcharge - not cheap, almost a economy round trip ticket
+
+At this point, I thought things are all settled; at least for the airline tickets, and we can move on to have fun on making the 3 days travel plan in Seoul, such as hotel booking and what attractions we should go check out.. but in fact, one thing was overlooked, the ticket for my baby girl. 
+
+### Baby ticket
+It is not the very first time we take our baby to an airplane. A few month ago, we travelled to New York with her, which was a 6-hours long flight. She was doing really well, kept sleeping for most of the time, did not make too much trouble for us, so I am not too worry about her on the airplane. the thing is, for domastic flight, the baby under two is usually free if they can stay on one of the parents lap. Unfortunately, this is not the same for international flights. In short, there will be a charge even the baby doesn't occupy a seat, the amount varies among different airline. I was a little scared when I see some airlines charge 10% of the full amount of the price for the ticket, and they dont take mileage points, a guy on internet saying they used points to redeem a business seat and was charged $2,000 for their baby as their full price for the seat was $20,000 .. :-(. 
+
+I quickly contact Asiana and Air China to find out. As a result, Asiana can take points for baby, so it's 10% of the points that need to redeem for an adult tickets, which is 6,500 pts, this is awesome! but Air China will only take 10% of the ticket price, and it turned out to be $700... in the end, I just paid it, as there is nothing else I can really do at that point.
+
+### Summary
+There are a few takeaways in the process:
+1. As long as the ANA's 95,000 pts round trips redeem exsits, the Amex MR points is the preferred option for spending, the free stopover is very useful, I tested a few other destinations (Hawaii, Saipan, Guam, HongKong, Macow, Taiwan, Japan and Korea) and they are ALL POSSIBLE to be the stopover!
+2. For SPG points exchange, start at least 2 months before, it took me 20 days but I've seem other people take even longer
+3. Baby tickets (under 2) friendly airlines include Korean Airline, Asiana, Air Canada, British Airways, and Emirates. They can take mileage points for this (which should be always cheaper); most of the other airlines take 10% of the tickets price; one airline need to be awared - the Cathay Pacific takes 25% of the ticket price for baby!
+4. You can contact either ANA or the actual excuted airlines to purchase the baby tickets, each one will have their own policy;  you can always compare and go with the best option.
+
