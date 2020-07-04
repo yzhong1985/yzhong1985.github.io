@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 装了一台新的Ryzen PC
+title: My first Ryzen - PC build 2017 year end
 date: 2018-01-06 12:25:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: ryzen.jpg
 tags: [pc build, ryzen]
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 一次满意的旅行 Cancun
+title: A getaway to Cancun, Mexico, I want to come again!
 date: 2018-08-23 22:18:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: hyatt-ziva-cancun.jpg
 tags: [travel, life, mexico, cancun]
 ---
 

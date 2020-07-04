@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 皇牌空战7 未知的天空
+title: Ace Combat 7 - Skies Unknown, I can feel the old taste
 date: 2019-04-01 18:02:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: ace7_su47.jpg
 tags: [life, gaming, ace7]
 ---
 

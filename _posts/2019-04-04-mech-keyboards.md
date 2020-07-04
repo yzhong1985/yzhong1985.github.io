@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 那些年我买过的机械键盘
+title: Which one is the best? My mechanical keyboard collection
 date: 2019-04-04 12:16:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: mech-keyboards.jpg
 tags: [life, keyboard, pc]
 ---
 ![blkwidow]({{site.baseurl}}/assets/img/keyb-razor-blkwidow.JPG)

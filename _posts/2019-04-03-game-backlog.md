@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 我的游戏队列
+title: My game backlog
 date: 2019-04-03 09:43:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: games-backlog.jpg
 tags: [life, gaming]
 ---
 

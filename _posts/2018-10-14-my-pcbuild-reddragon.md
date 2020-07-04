@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 组了台强大的娱乐PC
+title: PC building 2018 - a huge upgrade
 date: 2018-10-14 15:38:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: pcbuild-redd-cover.jpg
 tags: [life, gaming, amd, nvidia, buildpc]
 ---
 

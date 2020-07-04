@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Ready Player One 观感
+title: Ready Player One - this is a movie for hardcore gamer
 date: 2018-04-22 22:18:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: game.jpg
 tags: [movie, life, game]
 ---
 
