@@ -14,7 +14,7 @@ After studying the reward points exchange policies from Amex & Chase and airline
 ### The stopover choices
 Once we decided ANA, one big benefit is the one free stopover. This means we can fly to a city in between and travel for a few days before going to the final destination (Beijing in our case). We think about stopping at Japan or Taiwan but finally gave up for different reasons. (For Japan, the US to Japan business class tickets availability is low; To book it, we need to be on waitlist first.. for Taiwan, as my wife is a Chinese citizen, she needs to get a certain permit to enter. Even it's not too hard to apply, we just simply don't want any hassle)
 
-we chose another country - South Korea
+We then chose another country - South Korea
 
 There are a few reasons that make South Korea a very desirable choice:
 * We can fly Asiana airlines (can use ANA points to redeem), which usually has very good availability on business
